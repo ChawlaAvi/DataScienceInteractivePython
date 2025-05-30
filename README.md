@@ -2,11 +2,15 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p></h1>
 
-<h1 align="center">DataScienceInteractivePython: Interactive Educational Data Science Python Dashboards Repository (0.0.1)</h1>
+<h1 align="center">DataScienceInteractivePython</h1>
 
 <h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
 
-*To support my students in my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses and anyone else learning data analytics and machine learning, I have developed a set of Python interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn by playing with the statistics, models or theoretical concepts!* 
+<div align="center">
+  <img src="https://github.com/ChawlaAvi/DataScienceInteractivePython/blob/main/nn_viz.gif" alt="ag-ui Logo" style="max-width: 20px; height: auto;" />
+</div>
+
+
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin, Data Analytics, Geostatistics and Machine Learning 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
